@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — HoVaTen-MSSV
+# Báo cáo cá nhân — Nguyen Hoang Dieu - 2A202603174
 
 Đoạn video: MOT17-09, 150 frame (frame 1–150), nguồn MOTChallenge, giấy phép CC BY-NC-SA 3.0.
 
@@ -35,7 +35,7 @@
 
 ## 3. Đoạn bị che (CP2)
 
-Người bị che: `P_`
+Người bị che: `P4`
 
 | Mốc | Frame |
 |---|---:|
